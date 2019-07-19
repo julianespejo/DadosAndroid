@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tira los Dados!!</string>
+    <string name="roll_label" translatable="false">Tirar Dado!</string>
+</resources>
